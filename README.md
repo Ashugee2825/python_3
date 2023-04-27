@@ -1,1 +1,1 @@
-# Real Time Moving Object Dection and Trackig
+# Real Time Moving Object Dection and Tracking
